@@ -1,7 +1,6 @@
 D:\Users\José Murillo\source\repos\EFCore.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Users\José Murillo\source\repos\EFCore.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Users\José Murillo\source\repos\EFCore.WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Users\José Murillo\source\repos\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.WebApi.exe
 D:\Users\José Murillo\source\repos\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.WebApi.deps.json
 D:\Users\José Murillo\source\repos\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.WebApi.runtimeconfig.json
 D:\Users\José Murillo\source\repos\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.WebApi.runtimeconfig.dev.json
@@ -40,3 +39,4 @@ D:\Users\José Murillo\source\repos\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore
 D:\Users\José Murillo\source\repos\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.pdb
 D:\Users\José Murillo\source\repos\EFCore.WebApi\obj\Debug\netcoreapp3.1\EFCore.WebApi.genruntimeconfig.cache
 D:\Users\José Murillo\source\repos\EFCore.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\José Murillo\source\repos\EFCore.WebApi\bin\Debug\netcoreapp3.1\EFCore.WebApi.exe
